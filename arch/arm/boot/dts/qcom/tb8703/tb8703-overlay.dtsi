@@ -1,3 +1,5 @@
+#include "tb8703-cpu-oc.dtsi"
+#include "tb8703-gpu-oc.dtsi"
 #include "tb8703-msm8953-pinctrl.dtsi"
 #include "tb8703-msm8953.dtsi"
 #include "tb8703-msm8953-regulator.dtsi"
